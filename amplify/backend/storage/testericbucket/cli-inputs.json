@@ -1,0 +1,14 @@
+{
+  "resourceName": "testericbucket",
+  "policyUUID": "d03acdc4",
+  "bucketName": "buckettest",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
